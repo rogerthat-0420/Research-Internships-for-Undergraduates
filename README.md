@@ -10,14 +10,14 @@ The following are some global research internship positions:
 
 CANADA
 
-  * [MITACS Globalink](https://www.mitacs.ca/en/programs/globalink/globalink-research-internship), for research positions in Canada.
+  * [MITACS Globalink](https://www.mitacs.ca/en/programs/globalink/globalink-research-internship), for research positions in Canada. ❌
   * [University of Alberta Research Experience (UARE)](https://www.ualberta.ca/admissions-programs/visiting-student-and-internship-programs/research-internships/ualberta-research-experience/index.html)
 
 US
   * [LPI Summer Intern Program in Planetary Science](https://www.lpi.usra.edu/lpiintern/application/), for both national and international students.
   * [NASA - CalTech Summer Undergraduate Research Fellowship (SURF)](https://www.jpl.nasa.gov/edu/intern/apply/caltech-summer-undergraduate-research-fellowship/), for research positions at Jet Propulsion Laboratory, California Institute of Technology.
-  * [Santa Fe Institute Summer Research Experience](https://www.santafe.edu/engage/learn/programs/undergraduate-complexity-research)
-  * [Robotics Institute for Summer Scholars](https://riss.ri.cmu.edu/), CMU 
+  * [Santa Fe Institute Summer Research Experience](https://www.santafe.edu/engage/learn/programs/undergraduate-complexity-research) ⏰
+  * [Robotics Institute for Summer Scholars](https://riss.ri.cmu.edu/), CMU ⏰
   * [Data Science for Social Good Fellowship](https://www.dssgfellowship.org/), CMU 
   * [QRLSSP Summer Program](https://mcmsc.asu.edu/institutes/qrlssp), Arizona State University: Only for US Citizens / Permanent Residents
   * [Summer Undergraduate Research fellowship program](https://www.rockefeller.edu/education-and-training/surf/), Rockfeller Institute
@@ -31,8 +31,8 @@ US
   * [Global Research Experience in Advanced Technologies (GREAT) Program, UC Davis](https://great.ucdavis.edu/)
   * [ICT Summer Research Program](https://ict.usc.edu/academics/internships/application/)
   * [UC Berkeley Amgen Scholars program](https://amgenscholars.berkeley.edu/)
-  * [Summer Undergraduate Program in Engineering Research at Berkeley (SUPERB) (for Information Technology students](https://eecs.berkeley.edu/resources/undergrads/research/superb)
-  * [SUMMER RESEARCH OPPORTUNITIES PROGRAM(SROP), Purdue University](https://www.purdue.edu/gradschool/diversity/programs/summer-research-opportunities-program/)
+  * [Summer Undergraduate Program in Engineering Research at Berkeley (SUPERB) (for Information Technology students](https://eecs.berkeley.edu/resources/undergrads/research/superb) ❌
+  * [SUMMER RESEARCH OPPORTUNITIES PROGRAM(SROP), Purdue University](https://www.purdue.edu/gradschool/diversity/programs/summer-research-opportunities-program/) 
   * [Summer Undergraduate Research Fellowship (SURF), Stanford University](https://engineering.stanford.edu/students-academics/equity-and-inclusion-initiatives/prospective-graduate-programs/summer)
   * [IPAM UCLA Program](http://www.ipam.ucla.edu/programs/student-research-programs/)
 
